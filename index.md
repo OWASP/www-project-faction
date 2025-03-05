@@ -16,7 +16,7 @@ pitch: Faction is a pentesting assessment collaboration framework that helps aut
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/factionsecurity.com)
 
 
-![image](/assets/290761747-d9237bed-302f-4e6a-9716-22ae88d0dc36.png)
+![image](/www-project-faction/assets/images/290761747-d9237bed-302f-4e6a-9716-22ae88d0dc36.png)
 
 
 ### Become a Sponsor ❤️
@@ -70,54 +70,52 @@ You can find out more information about creating your own custom report template
 [Custom Security Report Templates - Faction Security](https://docs.factionsecurity.com/Custom%20Security%20Report%20Templates/)
 
 ## Burp Suite Extension
+Faction is in the Burp BApp store but you can also get it from our github:
 [Burp Suite Extensions](https://github.com/factionsecurity/Faction-Burp)
 
 ## Manuals and Tutorials
 [Manual](https://docs.factionsecurity.com/)
 
-## Don't want to host it yourself?
-We can provide hosting for your instance. All instances are single tenants so you don't have to worry about sharing infrastructure with untrusted parties. Navigate to [https://www.factionsecurity.com to learn more](https://www.factionsecurity.com). 
-
 
 ## Screenshots
 __Vulnerability Templates__
-![image](https://github.com/factionsecurity/faction/assets/2343831/b6fa6a0b-34a9-46cf-87cb-6aeb2b5d3347)
+![image](/www-project-faction/assets/images/vuln-templates.png)
 
 __Assessment Scheduling__
-![image](https://github.com/factionsecurity/faction/assets/2343831/7410f74e-3854-41e9-843f-7ca44d79cc54)
+![image](/www-project-faction/assets/images/scheduling.png)
 
 
 __Peer Review and Track Changes__
-![image](https://github.com/factionsecurity/faction/assets/2343831/fa72a72b-2c95-4c2c-bad1-5b34aab7fd13)
+![image](/www-project-faction/assets/images/peerreview.png)
 
 
 __Remediation/Retest Queue__
-![image](https://github.com/factionsecurity/faction/assets/2343831/31a576a7-8cee-4b41-9a72-52eccec8d3d8)
+![image](/www-project-faction/assets/images/retests.png)
 
 __Schedule Retests__
-![image](https://github.com/factionsecurity/faction/assets/2343831/421a9150-96a8-4ce8-ba06-061562012c16)
+![image](/www-project-faction/assets/images/scheduleretests.png)
 
 __Assessor Retest Interface__
-![image](https://github.com/factionsecurity/faction/assets/2343831/11421c1f-63db-44e2-a692-a3918ddbf2ac)
+![image](/www-project-faction/assets/images/assessorretest.png)
 
 __Vulnerability Status Tracking__
-![image](https://github.com/factionsecurity/faction/assets/2343831/a1973dba-663c-4617-bd78-ffb08eb27973)
+![image](/www-project-faction/assets/images/vulnstatus.png)
 
-# 1.2 Release Updates
+# Faction App Store
 
 Faction 1.2 introduces the App Store! The Faction App Store will make it easier for developers to extend faction. Faction Extensions can be used to trigger custom code when certain events happen in your workflow like sending all vulnerbilities to Jira when the assessment is complete or update a tracking system when retests pass or fail. More information can be found in the [documentation site](https://docs.factionsecurity.com). 
 
 ### ⭐️ Jira Integration and AppStore Dashboard
-![image](https://github.com/factionsecurity/faction/assets/2343831/53feb37e-cc66-401c-9ef0-e43fd4dc9f51)
+![image](/www-project-faction/assets/images/appstore.png)
 
 Note you can reorder extensions so that updates for one can affect updates to the next. 
 
 ### ⭐️ Extensions for Custom Graphics
 Extensions will also allow custom bar charts to your reports:
-![image](https://github.com/factionsecurity/faction/assets/2343831/1657ed40-fdd3-4b29-afd3-b5d3aa8f78c5)
+![image](/www-project-faction/assets/images/appstore2.png)
 
 Generated report with graphics:
-![image](https://github.com/factionsecurity/faction/assets/2343831/abf9b5d4-2638-411d-a57c-89fcd5819976)
+![image](/www-project-faction/assets/images/report.png)
 
 
 

@@ -1,17 +1,16 @@
 ### Faction Information
-* [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
+* [Production Project](#)
+* [Version 1.4.3](https://github.com/factionsecurity/faction/releases/tag/1.4.3)
 * [Builder](#)
 * [Breaker](#)
 
 ### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* [Documentation](https://docs.factionsecurity.com)
+* [BlueSky](https://bsky.app/profile/factionsecurity.com)
 
 ### Code Repository
-* [repo](#)
+* [repo](https://github.com/factionsecurity/faction)
 
-### Change Log
-* [changes](#)
+### Releases and Change Log
+* [releases](https://github.com/factionsecurity/faction/releases)
 
