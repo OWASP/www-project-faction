@@ -16,7 +16,7 @@ pitch: Faction is a pentesting assessment collaboration framework that helps aut
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/factionsecurity.com)
 
 
-![image](https://github.com/user-attachments/assets/e2c08096-4469-41e1-8bba-4fd30944d00c)
+![image](/assets/290761747-d9237bed-302f-4e6a-9716-22ae88d0dc36.png)
 
 
 ### Become a Sponsor ❤️
