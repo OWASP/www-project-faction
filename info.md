@@ -1,6 +1,6 @@
 ### Faction Information
 <p>
-<span class="fa-stack fa-2x">
+<span class="fa-stack fa-2x" style="margin-top: -25px">
     <i class="fas fa-circle fa-stack-2x" style="color:#53AAE5"></i>
     <i class="fas fa-egg fa-stack-1x fa-inverse"></i>
 </span>
