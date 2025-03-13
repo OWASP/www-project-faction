@@ -17,8 +17,8 @@
 * [BlueSky](https://bsky.app/profile/factionsecurity.com)
 
 ### Code Repository
-* [repo](https://github.com/factionsecurity/faction)
+* [Github repo](https://github.com/factionsecurity/faction)
 
 ### Releases and Change Log
-* [releases](https://github.com/factionsecurity/faction/releases)
+* [Releases](https://github.com/factionsecurity/faction/releases)
 
