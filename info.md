@@ -6,7 +6,7 @@
 </span>
 <span>
 <i class="fas fa-tools fa-4x" style="color:#233e81;"></i>
-<i class="fas fa-sheild-alt fa-4x" style="color:#233e81;"></i>
+<i class="fas fa-shield-alt fa-4x" style="color:#233e81;"></i>
 </span>
 </p>
 * [Incubator Project](https://owasp.org/other_projects/)
