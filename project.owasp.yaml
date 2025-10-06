@@ -1,0 +1,59 @@
+audience:
+  - builder
+leaders:
+  - name: Josh Summitt
+    email: Josh.Summitt80@owasp.org
+    github: summitt
+level: 2
+license:
+  - GPL-2.0
+  - MIT
+name: OWASP Faction
+pitch: Faction is a pentesting assessment collaboration framework that helps automate pentesting reports, schedule larege scale assessments, manage vulnerability
+  tracking, and increase collaboration in your teams.
+repositories:
+  - name: www-project-faction
+    url: https://github.com/OWASP/www-project-faction
+    description: OWASP Foundation web repository
+  - name: All-Extensions-Example
+    url: https://github.com/factionsecurity/All-Extensions-Example
+    description: Demonstration of Implementing All Faction Extension Options
+  - name: checklist-report-extension
+    url: https://github.com/factionsecurity/checklist-report-extension
+    description: Add checklists to your Faction reports
+  - name: data
+    url: https://github.com/factionsecurity/data
+    description: User, contributor and developer friendly vulnerability database
+  - name: faction
+    url: https://github.com/factionsecurity/faction
+    description: Pen Test Report Generation and Assessment Collaboration
+  - name: Faction-Burp
+    url: https://github.com/factionsecurity/Faction-Burp
+    description: The Faction Burp Suite Extension
+  - name: faction-extender
+    url: https://github.com/factionsecurity/faction-extender
+    description: Maven Repo Used for Extending Faction.
+  - name: Faction-Extension-List
+    url: https://github.com/factionsecurity/Faction-Extension-List
+    description: A listing of approved Faction App Extensions
+  - name: Faction-Jira-Extension
+    url: https://github.com/factionsecurity/Faction-Jira-Extension
+    description: Example Faction Plugin to Send Issus to Jira.
+  - name: Faction-Vulnerability-Bar-Chart
+    url: https://github.com/factionsecurity/Faction-Vulnerability-Bar-Chart
+    description: 'Bar chart reporting extension for Faction 1.2 and above. '
+  - name: FactionExtender
+    url: https://github.com/factionsecurity/FactionExtender
+    description: Maven Dependency to Build Faction Apps
+  - name: factionsecurity.github.io
+    url: https://github.com/factionsecurity/factionsecurity.github.io
+    description: faction docs
+  - name: report_templates
+    url: https://github.com/factionsecurity/report_templates
+    description: Example Faction Report Templates
+tags:
+  - reporting
+  - vulnerability management
+  - pentesting
+type: code
+website: https://owasp.org/www-project-faction
