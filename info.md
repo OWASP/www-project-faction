@@ -10,11 +10,12 @@
 </span>
 </p>
 * [Incubator Project](https://owasp.org/other_projects/)
-* [Version 1.4.3](https://github.com/factionsecurity/faction/releases/tag/1.4.3)
+* [Version 1.7.0](https://github.com/factionsecurity/faction/releases)
 
 ### Downloads or Social Links
 * [Documentation](https://docs.factionsecurity.com)
 * [BlueSky](https://bsky.app/profile/factionsecurity.com)
+* [Blog](https://medium.com/@we-are-faction)
 
 ### Code Repository
 * [Github repo](https://github.com/factionsecurity/faction)
