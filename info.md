@@ -10,7 +10,7 @@
 </span>
 </p>
 * [Incubator Project](https://owasp.org/other_projects/)
-* [Version 1.7.0](https://github.com/factionsecurity/faction/releases)
+* [Version 1.8.X](https://github.com/factionsecurity/faction/releases)
 
 ### Downloads or Social Links
 * [Documentation](https://docs.factionsecurity.com)
@@ -22,4 +22,3 @@
 
 ### Releases and Change Log
 * [Releases](https://github.com/factionsecurity/faction/releases)
-

@@ -20,9 +20,22 @@ pitch: Faction is a pentesting assessment collaboration framework that helps aut
 
 
 ### Become a Sponsor ❤️
-If you like the project and would like to see it advance then consider being a sponser. All sponsers get access to the Faction discord server and will have bug reports priotirized. Just click the sponsor links at the top of this repo. 
+If you like the project and would like to see it advance then consider being a sponser. All sponsers get access to Faction Discord Server and will have bug reports priotirized. Just click the sponsor links at the top of this repo. 
 
 [Sponsor via GitHub Sponosrs](https://github.com/sponsors/factionsecurity)
+
+# Current Road Map
+- Open sourced the base application on github in dec 2023
+- Adding API and plugin features - March 2024
+- Streamlined remediation workflows - August 2024
+- Update backend and code refactor - October 2025
+- Adding 4 more plugins and integrations - December 2025
+- Adding MCP Server May 2026
+- Faction 2.0 Summer 2026
+  - Complete overhaul of the UI
+  - Improved editing workflow
+  - Much need improvement to vulnerability Management
+  - App Owner Dashboards and Vulnerability Tracking
 
 ## Introduction
 
@@ -42,6 +55,7 @@ Other Features:           
 1. SMTP integration 
 1. Extendable with Custom Plugins similar to Burp Extender.
 2. Custom Report Variables
+3. MCP Server
 
 __Want to see it in action?__ -> [Faction YouTube Channel](https://www.youtube.com/@factionsecurity/videos)
 
@@ -116,14 +130,3 @@ Extensions will also allow custom bar charts to your reports:
 
 Generated report with graphics:
 ![image](/www-project-faction/assets/images/report.png)
-
-
-
-### Current Road Map
-- Open sourced the base application on github in dec 2023
-- Adding API and plugin features - March 2024
-- Streamlined remediation workflows - August 2024
-- Update backend and code refactor - October 2025
-- Adding 4 more plugins and integrations - December 2025
-- Overhaul the UI to be more modern and simple - March 2026
-
