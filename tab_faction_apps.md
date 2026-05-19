@@ -6,7 +6,7 @@ order: 2
 tags: reporting, vulnerability management, pentesting, java, application-security
 ---
 
-# Faction App Store Extensions
+## Faction App Store Extensions
 
 ![image](/www-project-faction/assets/images/faction-appstore.png)
 

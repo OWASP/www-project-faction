@@ -1,12 +1,12 @@
 ---
-title: Faction MCP Server
+title: faction_mcp_server
 layout:  null
 tab: true
 order: 1
 tags: mcp, reporting, vulnerability management, pentesting, ai-cyber-security, agentic, application-security
 ---
 
-# Faction MCP Server
+## Faction MCP Server
 ![image](/www-project-faction/assets/images/faction-opencode.png)
 
 The Faction MCP server is a Model Context Protocol (MCP) server that exposes a Faction instance — assessments, vulnerabilities, retests, vulnerability templates, and audit logs — to any MCP-compatible AI client (Claude Code, Claude Desktop, OpenCode, GitHub Copilot CLI, LM Studio, and others).
