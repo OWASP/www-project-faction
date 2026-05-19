@@ -1,12 +1,12 @@
 ---
-title: faction_appstore_extensions
+title: appstore_api
 layout:  null
 tab: true
 order: 2
 tags: reporting, vulnerability management, pentesting, java, application-security
 ---
 
-## Faction App Store Extensions
+# AppStore API
 
 ![image](/www-project-faction/assets/images/faction-appstore.png)
 
