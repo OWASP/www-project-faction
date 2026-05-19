@@ -3,7 +3,7 @@ title: Faction AppStore Extensions
 layout:  null
 tab: true
 order: 2
-tags: reporting, vulnerability management, pentesting, java, application security
+tags: reporting, vulnerability management, pentesting, java, application-security
 ---
 
 # Faction App Store Extensions

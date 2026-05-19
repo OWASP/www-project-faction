@@ -3,7 +3,7 @@ title: Faction MCP Server
 layout:  null
 tab: true
 order: 1
-tags: mcp, reporting, vulnerability management, pentesting, ai cyber security, agentic pentesting, application security
+tags: mcp, reporting, vulnerability management, pentesting, ai-cyber-security, agentic, application-security
 ---
 
 # Faction MCP Server
