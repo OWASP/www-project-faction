@@ -1,5 +1,5 @@
 ---
-title: faction_mcp_server
+title: faction_mcp
 layout:  null
 tab: true
 order: 1
