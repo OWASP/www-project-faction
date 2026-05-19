@@ -1,9 +1,10 @@
 ---
 title: appstore_api
-layout:  null
+displaytext: Appstore API
+layout: null
 tab: true
-order: 2
-tags: reporting, vulnerability management, pentesting, java, application-security
+order: 1
+tags: appstore_api
 ---
 
 # AppStore API

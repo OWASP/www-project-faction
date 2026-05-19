@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Faction
-tags: reporting, vulnerability management, pentesting
+tags: mcp_server, appstore_api
 level: 2
 type: code
-pitch: Faction is a pentesting assessment collaboration framework that helps automate pentesting reports, schedule larege scale assessments, manage vulnerability tracking, and increase collaboration in your teams. 
+pitch: Faction is a pentesting assessment collaboration framework that helps automate pentesting reports, schedule large scale assessments, manage vulnerability tracking, and increase collaboration in your teams.
 
 ---
 
@@ -20,71 +20,70 @@ pitch: Faction is a pentesting assessment collaboration framework that helps aut
 
 
 ### Become a Sponsor ❤️
-If you like the project and would like to see it advance then consider being a sponser. All sponsers get access to Faction Discord Server and will have bug reports priotirized. Just click the sponsor links at the top of this repo. 
+If you like the project and would like to see it advance, then consider being a sponsor. All sponsors get access to the Faction Discord Server and will have bug reports prioritized. Just click the sponsor links at the top of this repo.
 
-[Sponsor via GitHub Sponosrs](https://github.com/sponsors/factionsecurity)
+[Sponsor via GitHub Sponsors](https://github.com/sponsors/factionsecurity)
 
-# Current Road Map
-- Open sourced the base application on github in dec 2023
+## Current Road Map
+- Open sourced the base application on GitHub in December 2023
 - Adding API and plugin features - March 2024
 - Streamlined remediation workflows - August 2024
 - Update backend and code refactor - October 2025
 - Adding 4 more plugins and integrations - December 2025
-- Adding MCP Server May 2026
-- Faction 2.0 Summer 2026
+- Adding MCP Server - May 2026
+- Faction 2.0 - Summer 2026
   - Complete overhaul of the UI
   - Improved editing workflow
-  - Much need improvement to vulnerability Management
+  - Much needed improvement to vulnerability management
   - App Owner Dashboards and Vulnerability Tracking
 
 ## Introduction
 
 FACTION is your entire assessment workflow in a box. With FACTION you can:
-1. Automate pen testing and security assessment Reports
-1. Peer review and track changes for reports
-1. Create customized DOCX templates for different assessment types and retests
-3. Real-time collaboration with assessors via the web app and [Burp Suite Extensions](https://github.com/factionsecurity/Faction-Burp)
-4. Customizable vulnerability templates with over 75 prepopulated
-5. Easily manage assessment teams and track progress across your organization
-6. Track vulnerability remediation efforts with custom SLA warnings and alerts  
-7. Full Rest API to integrate with other tools                     
+1. Automate pentesting and security assessment reports
+2. Peer review and track changes for reports
+3. Create customized DOCX templates for different assessment types and retests
+4. Real-time collaboration with assessors via the web app and [Burp Suite Extensions](https://github.com/factionsecurity/Faction-Burp)
+5. Customizable vulnerability templates with over 75 prepopulated
+6. Easily manage assessment teams and track progress across your organization
+7. Track vulnerability remediation efforts with custom SLA warnings and alerts
+8. Full REST API to integrate with other tools
 
-Other Features:           
-1. LDAP Integration       
-1. OAUTH2.0 Integration
-1. SMTP integration 
-1. Extendable with Custom Plugins similar to Burp Extender.
-2. Custom Report Variables
-3. MCP Server
+Other Features:
+1. LDAP Integration
+2. OAUTH2.0 Integration
+3. SMTP integration
+4. Extendable with Custom Plugins similar to Burp Extender
+5. Custom Report Variables
+6. MCP Server
 
 __Want to see it in action?__ -> [Faction YouTube Channel](https://www.youtube.com/@factionsecurity/videos)
 
 ## Quick Setup
 __Requirements__
-- Java JDK11 
+- Java JDK 11
 - Maven (for building the project)
-- (Optional for VM). Mongo DB requires a CPU with AVX support. You may run into this issue if using [Oracle Virtual](https://www.mongodb.com/community/forums/t/could-not-start-mongodb-5-0-running-oracle-linux-on-virtualbox/120524/10) Box or [Kubernetes](https://stackoverflow.com/questions/70818543/mongo-db-deployment-not-working-in-kubernetes-because-processor-doesnt-have-avx)
+- (Optional for VM). MongoDB requires a CPU with AVX support. You may run into this issue if using [Oracle Virtual](https://www.mongodb.com/community/forums/t/could-not-start-mongodb-5-0-running-oracle-linux-on-virtualbox/120524/10) Box or [Kubernetes](https://stackoverflow.com/questions/70818543/mongo-db-deployment-not-working-in-kubernetes-because-processor-doesnt-have-avx)
 
-Run the following commands to build the war file and deploy it to the docker container. 
+Run the following commands to build the WAR file and deploy it to the Docker container.
 ```
 git clone git@github.com:factionsecurity/faction.git
 cd faction
 docker-compose up --build
 ```
-
-Once the containers are up you can navigate to http://127.0.0.1:8080 to access your FACTION instance. 
-On the first boot, it will ask you to create an admin account. 
+Once the containers are up, you can navigate to http://127.0.0.1:8080 to access your FACTION instance.
+On the first boot, it will ask you to create an admin account.
 
 ## Import the Vulnerability Templates
 1. Navigate to Templates -> Default Vulnerabilities
-2. Click Update from Faction. 
+2. Click *Update from Faction*.
 
-## Customize reports
+## Customize Reports
 You can find out more information about creating your own custom report templates here:
 [Custom Security Report Templates - Faction Security](https://docs.factionsecurity.com/Custom%20Security%20Report%20Templates/)
 
 ## Burp Suite Extension
-Faction is in the Burp BApp store but you can also get it from our github:
+Faction is in the Burp BApp Store, but you can also get it from our GitHub:
 [Burp Suite Extensions](https://github.com/factionsecurity/Faction-Burp)
 
 ## Manuals and Tutorials
@@ -115,17 +114,17 @@ __Assessor Retest Interface__
 __Vulnerability Status Tracking__
 ![image](/www-project-faction/assets/images/vulnstatus.png)
 
-# Faction App Store
+## Faction App Store
 
-Faction 1.2 introduces the App Store! The Faction App Store will make it easier for developers to extend faction. Faction Extensions can be used to trigger custom code when certain events happen in your workflow like sending all vulnerbilities to Jira when the assessment is complete or update a tracking system when retests pass or fail. More information can be found in the [documentation site](https://docs.factionsecurity.com). 
+Faction 1.2 introduces the App Store! The Faction App Store makes it easier for developers to extend Faction. Faction Extensions can be used to trigger custom code when certain events happen in your workflow, like sending all vulnerabilities to Jira when an assessment is complete, or updating a tracking system when retests pass or fail. More information can be found on the [documentation site](https://docs.factionsecurity.com).
 
 ### ⭐️ Jira Integration and AppStore Dashboard
 ![image](/www-project-faction/assets/images/appstore.png)
 
-Note you can reorder extensions so that updates for one can affect updates to the next. 
+Note: you can reorder extensions so that updates from one can affect updates to the next.
 
 ### ⭐️ Extensions for Custom Graphics
-Extensions will also allow custom bar charts to your reports:
+Extensions also allow custom bar charts in your reports:
 ![image](/www-project-faction/assets/images/appstore2.png)
 
 Generated report with graphics:

@@ -1,9 +1,10 @@
 ---
 title: mcp_server
+displaytext: MCP Server
 layout:  null
 tab: true
 order: 1
-tags: mcp, reporting, vulnerability management, pentesting, ai-cyber-security, agentic, application-security
+tags: mcp_server
 ---
 
 # MCP Server
