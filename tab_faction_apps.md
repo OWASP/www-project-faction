@@ -1,5 +1,5 @@
 ---
-title: Faction AppStore Extensions
+title: faction_appstore_extensions
 layout:  null
 tab: true
 order: 2
