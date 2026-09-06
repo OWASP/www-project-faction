@@ -10,7 +10,8 @@
 </span>
 </p>
 * [Incubator Project](https://owasp.org/other_projects/)
-* [Version 1.8.X](https://github.com/factionsecurity/faction/releases)
+* [Version 1.X](https://github.com/factionsecurity/faction/releases)
+* [Version 2.X](https://github.com/factionsecurity/OWASP-Faction-2/releases)
 
 ### Downloads or Social Links
 * [Documentation](https://docs.factionsecurity.com)
@@ -18,7 +19,10 @@
 * [Blog](https://medium.com/@we-are-faction)
 
 ### Code Repository
-* [Github repo](https://github.com/factionsecurity/faction)
+* [Faction 1.X Github repo](https://github.com/factionsecurity/faction)
+* [Faction 2.X Github repo](https://github.com/factionsecurity/OWASP-Faction-2)
+
 
 ### Releases and Change Log
-* [Releases](https://github.com/factionsecurity/faction/releases)
+* [Faction 1.X Releases](https://github.com/factionsecurity/faction/releases)
+* [Faction 2.x Releases](https://github.com/factionsecurity/OWASP-Faction-2/releases)
